@@ -1,0 +1,10 @@
+PlantVillage_dataset_balanced
+venvDann
+dann
+.pth
+tester.py
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pth
